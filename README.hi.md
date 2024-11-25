@@ -4,9 +4,9 @@
 
 > स्लगलाइन
 
--   [Glossary](./GLOSSARY.md)
+-   [शब्दकोष](./GLOSSARY.md)
 -   [संदर्भ](./REFERENCES.md)
--   [Documentation](./DOCUMENTATION.md)
+-   [प्रलेखन](./DOCUMENTATION.md)
 
 **कार्यकारी सारांश**
 
