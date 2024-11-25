@@ -4,9 +4,9 @@
 
 > سلوجلاين
 
--   [Glossary](./GLOSSARY.md)
+-   [مسرد](./GLOSSARY.md)
 -   [مراجع](./REFERENCES.md)
--   [Documentation](./DOCUMENTATION.md)
+-   [التوثيق](./DOCUMENTATION.md)
 
 **ملخص تنفيذي**
 
