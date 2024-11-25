@@ -8,9 +8,9 @@
 -   [參考](./REFERENCES.md)
 -   [文件](./DOCUMENTATION.md)
 
-**執行摘要**
+**Executive Summary**
 
-文字
+Text
 
 ## 100 - 簡介
 
@@ -26,4 +26,4 @@
 
 ## 400 - 結論
 
-看[README.md](./400/README.md)
+See [README.md](./400/README.md)
