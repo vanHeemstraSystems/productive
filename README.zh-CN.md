@@ -1,8 +1,8 @@
-存储库名称
+富有成效的
 
-# Repository Name
+# 富有成效
 
-> 斯拉格莱恩
+> Slugline
 
 -   [词汇表](./GLOSSARY.md)
 -   [参考](./REFERENCES.md)
