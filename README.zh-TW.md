@@ -1,6 +1,6 @@
 儲存庫名稱
 
-# Repository Name
+# 儲存庫名稱
 
 > 斯拉格萊恩
 
@@ -14,7 +14,7 @@
 
 ## 100 - 簡介
 
-See [README.md](./100/README.md)
+看[README.md](./100/README.md)
 
 ## 200 - 要求
 
@@ -24,6 +24,6 @@ See [README.md](./100/README.md)
 
 看[README.md](./300/README.md)
 
-## 400 - 結論
+## 400 - Conclusion
 
 看[README.md](./400/README.md)
