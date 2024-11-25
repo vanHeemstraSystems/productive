@@ -1,12 +1,12 @@
-اسم المستودع
+منتجة
 
-# اسم المستودع
+# منتجة
 
 > سلوجلاين
 
--   [مسرد](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [مراجع](./REFERENCES.md)
--   [التوثيق](./DOCUMENTATION.md)
+-   [Documentation](./DOCUMENTATION.md)
 
 **ملخص تنفيذي**
 
