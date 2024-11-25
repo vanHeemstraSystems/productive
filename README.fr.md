@@ -1,6 +1,6 @@
-nom du référentiel
+productif
 
-# Nom du référentiel
+# Productif
 
 > Slugline
 
@@ -8,7 +8,7 @@ nom du référentiel
 -   [Références](./REFERENCES.md)
 -   [Documentation](./DOCUMENTATION.md)
 
-**Executive Summary**
+**Résumé exécutif**
 
 Texte
 
