@@ -6,7 +6,7 @@
 
 -   [مسرد](./GLOSSARY.md)
 -   [مراجع](./REFERENCES.md)
--   [التوثيق](./DOCUMENTATION.md)
+-   [Documentation](./DOCUMENTATION.md)
 
 **ملخص تنفيذي**
 
