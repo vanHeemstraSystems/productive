@@ -6,7 +6,7 @@ nombre-repositorio
 
 -   [Glosario](./GLOSSARY.md)
 -   [Referencias](./REFERENCES.md)
--   [Documentation](./DOCUMENTATION.md)
+-   [Documentación](./DOCUMENTATION.md)
 
 **Resumen ejecutivo**
 
