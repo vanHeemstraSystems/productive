@@ -1,8 +1,8 @@
-repositorynaam
+productief
 
-# Repository Name
+# Productief
 
-> Slaklijn
+> Slugline
 
 -   [Glossarium](./GLOSSARY.md)
 -   [Referenties](./REFERENCES.md)
