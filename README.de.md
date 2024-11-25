@@ -5,7 +5,7 @@ produktiv
 > Slugline
 
 -   [Glossar](./GLOSSARY.md)
--   [Referenzen](./REFERENCES.md)
+-   [References](./REFERENCES.md)
 -   [Dokumentation](./DOCUMENTATION.md)
 
 **Zusammenfassung**
