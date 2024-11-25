@@ -1,6 +1,6 @@
 repositorynaam
 
-# Naam van opslagplaats
+# Repository Name
 
 > Slaklijn
 
