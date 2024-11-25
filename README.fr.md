@@ -8,9 +8,9 @@ nom du référentiel
 -   [Références](./REFERENCES.md)
 -   [Documentation](./DOCUMENTATION.md)
 
-**Résumé exécutif**
+**Executive Summary**
 
-Text
+Texte
 
 ## 100 - Introduction
 
@@ -22,7 +22,7 @@ Voir[README.md](./200/README.md)
 
 ## 300 - Construire notre application
 
-See [README.md](./300/README.md)
+Voir[README.md](./300/README.md)
 
 ## 400 - Conclusion
 
